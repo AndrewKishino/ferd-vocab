@@ -1,0 +1,55 @@
+{
+  "name": "ferd-vocab",
+  "version": "0.0.6",
+  "description": "A vocabulary quiz game based on SAT words.",
+  "main": "vocab.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gartenfeld/ferd-vocab.git"
+  },
+  "author": {
+    "name": "David Rosson"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gartenfeld/ferd-onion/issues"
+  },
+  "homepage": "https://github.com/gartenfeld/ferd-onion#readme",
+  "dependencies": {
+    "extend": "^3.0.0"
+  },
+  "gitHead": "c41c1f9e5b9eb3b90144abcedb575967b6f6e30e",
+  "_id": "ferd-vocab@0.0.6",
+  "_shasum": "b7c0646edc4ce5bbdaba612c7490024104c4cb00",
+  "_from": "ferd-vocab@latest",
+  "_npmVersion": "2.13.3",
+  "_nodeVersion": "0.12.6",
+  "_npmUser": {
+    "name": "gartenfeld",
+    "email": "DERosson@gmail.com"
+  },
+  "dist": {
+    "shasum": "b7c0646edc4ce5bbdaba612c7490024104c4cb00",
+    "tarball": "http://registry.npmjs.org/ferd-vocab/-/ferd-vocab-0.0.6.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "andrewkishino",
+      "email": "AndrewKishino@gmail.com"
+    },
+    {
+      "name": "callmenick",
+      "email": "nick@callmenick.com"
+    },
+    {
+      "name": "gartenfeld",
+      "email": "david@rosson.com.au"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/ferd-vocab/-/ferd-vocab-0.0.6.tgz",
+  "readme": "ERROR: No README data found!"
+}
